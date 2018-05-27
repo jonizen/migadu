@@ -1,0 +1,14 @@
+{
+    "id": "migadu",
+    "name": "Migadu",
+    "version": "1.0.0",
+    "description": "Migadu mail",
+    "main": "index.js",
+    "author": "Jonathan Stendahl <me@jonathanstendahl.com>",
+    "license": "MIT",
+    "config": {
+      "serviceURL": "https://webmail.migadu.com/",
+      "hasNotificationSound": true
+    }
+  }
+  
