@@ -2,7 +2,7 @@
     "id": "migadu",
     "name": "Migadu",
     "version": "1.0.0",
-    "description": "Migadu mail",
+    "description": "Migadu web mail",
     "main": "index.js",
     "author": "Jonathan Stendahl <me@jonathanstendahl.com>",
     "license": "MIT",
